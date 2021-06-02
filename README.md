@@ -8,10 +8,11 @@ Python & Selenium (Data Collection)
 ETL: PySpark
 
 Visualization/Dashboard:  Planning to use Tableau
+
 References:
 
-PySpark:
+  PySpark:
 
-https://www.youtube.com/watch?v=pOMXkbc06m4
+  https://www.youtube.com/watch?v=pOMXkbc06m4
 
-https://www.youtube.com/watch?v=7I4YZwaJgPs
+  https://www.youtube.com/watch?v=7I4YZwaJgPs
