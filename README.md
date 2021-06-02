@@ -1,6 +1,13 @@
 # CollegeAcceptanceAnalyzer
 
 The College Acceptance Analyzer is a Data Analytics and Visualizer for Entrance Requirements of various Medical Schools in the US.
+
+Tools Used:
+Python & Selenium (Data Collection)
+
+ETL: PySpark
+
+Visualization/Dashboard:  Planning to use Tableau
 References:
 
 PySpark:
